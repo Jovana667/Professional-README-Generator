@@ -28,7 +28,8 @@ node index.js
 
 ## Screenshots
 
-<iframe src="https://drive.google.com/file/d/1kEix7JiRWFohxMDiwb3zhsaYsB7601Z_/preview" width="640" height="480"></iframe>
+https://github.com/user-attachments/assets/068d3998-12b3-4b09-a2b1-728f0158c8c4
+
 
 ## Credits
 
