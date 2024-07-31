@@ -57,4 +57,4 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at [jovanavukovic4@hotmail.com]. You can find more of my work at [Jovana667]([https://github.com/your-username](https://github.com/Jovana667)).
+If you have any questions about the repo, open an issue or contact me directly at [jovanavukovic4@hotmail.com]. You can find more of my work at [Jovana667](https://github.com/Jovana667).
