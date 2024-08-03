@@ -28,8 +28,7 @@ node index.js
 
 ## Video demonstration
 
-https://github.com/user-attachments/assets/068d3998-12b3-4b09-a2b1-728f0158c8c4
-
+https://github.com/user-attachments/assets/d111232d-ccf6-4e49-a773-f06c70e379e6
 
 ## Credits
 
