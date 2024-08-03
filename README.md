@@ -26,6 +26,8 @@ To use this application, run the following command:
 
 node index.js
 
+After this answer the prompts and upon completion a README file will be generated.
+
 ## Video demonstration
 
 https://github.com/user-attachments/assets/d111232d-ccf6-4e49-a773-f06c70e379e6
