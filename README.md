@@ -26,8 +26,9 @@ To use this application, run the following command:
 
 node index.js
 
-## Screenshots
+## Video demonstration
 
+https://github.com/user-attachments/assets/068d3998-12b3-4b09-a2b1-728f0158c8c4
 
 
 ## Credits
